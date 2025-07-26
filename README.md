@@ -34,7 +34,8 @@ This Power BI project visualizes detailed sales and shipment metrics for a ficti
 
 ## 📁 Repository Contents
 
-- `choco_cube_dashboard.pbix` – Power BI project file  
+- `choco_cube_dashboard.pbix` – Power BI project file
+   > 📥 **To download**: click on the `.pbix` file in the repo, then click **`View raw`** – it will auto-download  
 - `choco.jpg` – Dashboard image 
 
 ---
